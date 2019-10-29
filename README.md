@@ -1,5 +1,5 @@
 # PyTorch-Basic
-This repository provides tutorial codes written in PyTorch for deep learning starters. Along with this repository, I recommend to read the [Official PyTorch Tutorial](https://pytorch.org/tutorials/). It will be keep updated as I study further and in depth. 
+This repository provides tutorial codes written in PyTorch for deep learning starters. Along with this repository, I recommend to read the [Official PyTorch Tutorial](https://pytorch.org/tutorials/). I tried to include as much essential information as possible. It will be keep updated as I study further and in depth. 
 
 ## Tables of Contents
 ### Basic
