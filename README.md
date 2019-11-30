@@ -4,12 +4,12 @@ This repository provides tutorial codes written in PyTorch for deep learning sta
 ## Tables of Contents
 ### Basic
 [0. Python Basic](https://github.com/hee9joon/PyTorch-Basic/blob/master/0.%20Python%20Basic.ipynb)
-<br>[1. PyTorch Basic](https://github.com/hee9joon/PyTorch-Basic/blob/master/1.%20PyTorch%20Basic.ipynb)
-<br>[2. Neural Networks](https://github.com/hee9joon/PyTorch-Basic/blob/master/2.%20Neural%20Networks.ipynb)
+<br> [1. PyTorch Basic](https://github.com/hee9joon/PyTorch-Basic/blob/master/1.%20PyTorch%20Basic.ipynb)
+<br> [2. Neural Networks](https://github.com/hee9joon/PyTorch-Basic/blob/master/2.%20Neural%20Networks.ipynb)
 
 ### Convolutional Neural Network
 [3. Convolutional Neural Network](https://github.com/hee9joon/PyTorch-Basic/blob/master/3.%20Convolutional%20Neural%20Network.ipynb)
-<br>4. Transfer Learning and Custom Data
+<br> 4. Transfer Learning and Custom Data
 
 ### Recurrent Neural Network
 [5. Recurrent Neural Network](https://github.com/hee9joon/PyTorch-Basic/blob/master/5.%20Recurrent%20Neural%20Network.ipynb)
@@ -17,4 +17,4 @@ This repository provides tutorial codes written in PyTorch for deep learning sta
 
 ### Advanced Topics
 7. Neural Style Transfer
-8. Generative Adversarial Netowrk
+<br> [8. Generative Adversarial Netowrk](https://github.com/hee9joon/PyTorch-Basic/blob/master/8.%20Generative%20Adversarial%20Network.ipynb)
