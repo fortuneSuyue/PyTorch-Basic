@@ -1,4 +1,5 @@
 # PyTorch-Basic
+![PyTorch](./Images/PyTorch.jpeg)
 This repository provides tutorial codes written in PyTorch for deep learning starters. Along with this repository, I recommend to read the [Official PyTorch Tutorial](https://pytorch.org/tutorials/). I tried to include as much essential information as possible. It will be keep updated as I study further and in depth. 
 
 ## Tables of Contents
@@ -15,6 +16,6 @@ This repository provides tutorial codes written in PyTorch for deep learning sta
 [5. Recurrent Neural Network](https://github.com/hee9joon/PyTorch-Basic/blob/master/5.%20Recurrent%20Neural%20Network.ipynb)
 <br> 6. Sentiment Analysis
 
-### Advanced Topics
+### Other Topics
 [7. Neural Style Transfer]()
 <br> [8. Generative Adversarial Netowrk](https://github.com/hee9joon/PyTorch-Basic/blob/master/8.%20Generative%20Adversarial%20Network.ipynb)
