@@ -3,17 +3,17 @@ This repository provides tutorial codes written in PyTorch for deep learning sta
 
 ## Tables of Contents
 ### Basic
-0. Python Basic
-1. PyTorch Basic
-2. Neural Networks
+[0. Python Basic](https://github.com/hee9joon/PyTorch-Basic/blob/master/0.%20Python%20Basic.ipynb)
+<br>[1. PyTorch Basic](https://github.com/hee9joon/PyTorch-Basic/blob/master/1.%20PyTorch%20Basic.ipynb)
+<br>[2. Neural Networks](https://github.com/hee9joon/PyTorch-Basic/blob/master/2.%20Neural%20Networks.ipynb)
 
 ### Convolutional Neural Network
-3. Convolutional Neural Network
-4. Transfer Learning and Custom Data
+[3. Convolutional Neural Network](https://github.com/hee9joon/PyTorch-Basic/blob/master/3.%20Convolutional%20Neural%20Network.ipynb)
+<br>4. Transfer Learning and Custom Data
 
 ### Recurrent Neural Network
-5. Recurrent Neural Network
-6. Sentiment Analysis
+[5. Recurrent Neural Network](https://github.com/hee9joon/PyTorch-Basic/blob/master/5.%20Recurrent%20Neural%20Network.ipynb)
+<br> 6. Sentiment Analysis
 
 ### Advanced Topics
 7. Neural Style Transfer
