@@ -18,4 +18,4 @@ This repository provides tutorial codes written in PyTorch for deep learning sta
 
 ### Other Topics
 [7. Neural Style Transfer]()
-<br> [8. Generative Adversarial Netowrk](https://github.com/hee9joon/PyTorch-Basic/blob/master/8.%20Generative%20Adversarial%20Network.ipynb)
+<br> [8. Generative Adversarial Network](https://github.com/hee9joon/PyTorch-Basic/blob/master/8.%20Generative%20Adversarial%20Network.ipynb)
