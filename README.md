@@ -17,5 +17,6 @@ This repository provides tutorial codes written in PyTorch for deep learning sta
 <br> 6. Sentiment Analysis
 
 ### Other Topics
-[7. Neural Style Transfer]()
+[7. Neural Style Transfer](https://github.com/hee9joon/PyTorch-Basic/blob/master/7.%20Neural%20Style%20Transfer.ipynb)
 <br> [8. Generative Adversarial Network](https://github.com/hee9joon/PyTorch-Basic/blob/master/8.%20Generative%20Adversarial%20Network.ipynb)
+<br> 9. Deep Q Learning (DQN)
