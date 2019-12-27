@@ -14,9 +14,10 @@ This repository provides tutorial codes written in PyTorch for deep learning sta
 
 ### Recurrent Neural Network
 [5. Recurrent Neural Network](https://github.com/hee9joon/PyTorch-Basic/blob/master/5.%20Recurrent%20Neural%20Network.ipynb)
-<br> 6. Sentiment Analysis
+<br> [6. Sentiment Analysis](https://github.com/hee9joon/PyTorch-Basic/blob/master/6.%20Sentiment%20Analysis%20with%20an%20RNN.ipynb)
 
 ### Advanced Topics
 [7. Neural Style Transfer](https://github.com/hee9joon/PyTorch-Basic/blob/master/7.%20Neural%20Style%20Transfer.ipynb)
 <br> [8. Generative Adversarial Network](https://github.com/hee9joon/PyTorch-Basic/blob/master/8.%20Generative%20Adversarial%20Network.ipynb)
-<br> 9. Deep Q Learning (DQN)
+
+Thanks for all the codes that I refered to while committing to this repository.
