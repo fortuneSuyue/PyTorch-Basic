@@ -19,6 +19,7 @@ This repository provides tutorial codes written in PyTorch for deep learning sta
 ### Advanced Topics
 [7. Neural Style Transfer](https://github.com/hee9joon/PyTorch-Basic/blob/master/7.%20Neural%20Style%20Transfer.ipynb)
 <br> [8. Generative Adversarial Network](https://github.com/hee9joon/PyTorch-Basic/blob/master/8.%20Generative%20Adversarial%20Network.ipynb)
+<br> [9. Image Captioning](https://github.com/hee9joon/PyTorch-Basic/blob/master/9.%20Image%20Captioning.ipynb)
 
 --- 
 
